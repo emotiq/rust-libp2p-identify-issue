@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "echo-dialer",
+  "echo-server",
+]
